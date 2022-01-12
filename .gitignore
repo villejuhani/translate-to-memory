@@ -130,3 +130,6 @@ dmypy.json
 
 # Qt files
 *.ui
+
+# Database files
+*.db
